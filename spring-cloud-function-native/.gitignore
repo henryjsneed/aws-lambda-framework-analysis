@@ -35,3 +35,4 @@ build/
 /olddocker
 /dockerfile2
 /workingDockerfile
+/.mvn/
